@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.red{
+    border: 1px black;
+    background-color: red;
+}
+.blue{
+    background-color: skyblue;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: aquamarine;
+}
+table{
+    padding: 10px;
+    text-align: center;
+
+}
+td{
+    padding: 10px;
+   
+}
+
